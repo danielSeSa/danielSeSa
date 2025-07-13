@@ -118,5 +118,5 @@
 ---
 
 <div align="center">
-  <em>Built with ❤️ and a whole lot of code.</em>
+  <em>...</em>
 </div>
